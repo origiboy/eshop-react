@@ -16,8 +16,8 @@ root.render(
       <Router>
         <Header />
         <Routes>
-          <Route path="/" element={<Catalog />}></Route>
-          <Route path="/cart" element={<Cart />}></Route>
+          <Route path="/eshop-react/" element={<Catalog />}></Route>
+          <Route path="/eshop-react/cart" element={<Cart />}></Route>
         </Routes>
         </Router>
     </div>

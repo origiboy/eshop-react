@@ -4,7 +4,7 @@ import { priceFormatting } from '../../utils/priceFormatting';
 import { useStore } from '../../store/StoreContext';
 
 function ProductItem({item}) {
-    const BASE_URL = '/products/';
+    const BASE_URL = '/eshop-react/products/';
 
     const { dispatch } = useStore();
 
