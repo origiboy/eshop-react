@@ -1,25 +1,21 @@
 {
   "files": {
-    "main.css": "/eshop-react/static/css/main.34f54d87.css",
-    "main.js": "/eshop-react/static/js/main.dcc9dd94.js",
-    "static/js/787.c6dd1964.chunk.js": "/eshop-react/static/js/787.c6dd1964.chunk.js",
-    "static/media/Montserrat-SemiBold.ttf": "/eshop-react/static/media/Montserrat-SemiBold.d5e0cc788cba9ced1fb9.ttf",
-    "static/media/Montserrat-Medium.ttf": "/eshop-react/static/media/Montserrat-Medium.c86e3b9010ff63c99166.ttf",
-    "static/media/Montserrat-Light.ttf": "/eshop-react/static/media/Montserrat-Light.6fcc9263a21be961d246.ttf",
-    "static/media/Montserrat-Regular.ttf": "/eshop-react/static/media/Montserrat-Regular.ceb11275ab638627a643.ttf",
-    "static/media/jam_shopping-cart.svg": "/eshop-react/static/media/jam_shopping-cart.f132bfff665977303594.svg",
-    "static/media/favourite.svg": "/eshop-react/static/media/favourite.d4ae1b84977631f66c83.svg",
-    "static/media/favourite_selected.svg": "/eshop-react/static/media/favourite_selected.20a73d54adf18b589146.svg",
-    "static/media/cart.svg": "/eshop-react/static/media/cart.dc2a275684b5d657e7aa.svg",
-    "index.html": "/eshop-react/index.html",
-    "static/media/menu.svg": "/eshop-react/static/media/menu.a44ad79968ec162919ef.svg",
-    "static/media/arrow.svg": "/eshop-react/static/media/arrow.9a000dfcbafd64d7d199.svg",
-    "main.34f54d87.css.map": "/eshop-react/static/css/main.34f54d87.css.map",
-    "main.dcc9dd94.js.map": "/eshop-react/static/js/main.dcc9dd94.js.map",
-    "787.c6dd1964.chunk.js.map": "/eshop-react/static/js/787.c6dd1964.chunk.js.map"
+    "main.css": "/static/css/main.6f408d2c.css",
+    "main.js": "/static/js/main.401f3ccb.js",
+    "static/js/787.c6dd1964.chunk.js": "/static/js/787.c6dd1964.chunk.js",
+    "static/media/jam_shopping-cart.svg": "/static/media/jam_shopping-cart.f132bfff665977303594.svg",
+    "static/media/favourite.svg": "/static/media/favourite.d4ae1b84977631f66c83.svg",
+    "static/media/favourite_selected.svg": "/static/media/favourite_selected.20a73d54adf18b589146.svg",
+    "static/media/cart.svg": "/static/media/cart.dc2a275684b5d657e7aa.svg",
+    "index.html": "/index.html",
+    "static/media/menu.svg": "/static/media/menu.a44ad79968ec162919ef.svg",
+    "static/media/arrow.svg": "/static/media/arrow.9a000dfcbafd64d7d199.svg",
+    "main.6f408d2c.css.map": "/static/css/main.6f408d2c.css.map",
+    "main.401f3ccb.js.map": "/static/js/main.401f3ccb.js.map",
+    "787.c6dd1964.chunk.js.map": "/static/js/787.c6dd1964.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.34f54d87.css",
-    "static/js/main.dcc9dd94.js"
+    "static/css/main.6f408d2c.css",
+    "static/js/main.401f3ccb.js"
   ]
 }
