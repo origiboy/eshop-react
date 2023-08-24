@@ -13,11 +13,11 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <StoreProvider>
     <div className='container'>
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <Header />
         <Routes>
-          <Route path="/eshop-react/" element={<Catalog />}></Route>
-          <Route path="/eshop-react/cart" element={<Cart />}></Route>
+          <Route path="/" element={<Catalog />}></Route>
+          <Route path="/cart" element={<Cart />}></Route>
         </Routes>
         </Router>
     </div>
